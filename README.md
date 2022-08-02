@@ -16,7 +16,7 @@ Overview: We plan to study how diferent economic factors, specifically unemploym
 - The [global health observatory api from the WHO](https://www.who.int/data/gho/info/gho-odata-api) provides global data on [suicide rates](https://ghoapi.azureedge.net/api/MH_12) for nearly 200 countries.
 - The [world bank's api](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation) provides global data on [unemployment rates](https://api.worldbank.org/v2/country/indicator/JI.UEM.1564.ZS?format=json) for over 150 countries.
 ### Additional Research Questions and Datsets
-- Is there a correlation between a contry's per capita GDP and suicide rate?
+- Is there a correlation between a country's per capita GDP and suicide rate?
 - Do the same correlations exist, such as GDP vs suicide rate, on US state level?
 - Is inequality-adjusted human developement index (IHDI) correlated with suicide rate?
 - The [world bank's api](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation) also provides data on [per capita GDP](https://api.worldbank.org/v2/country/indicator/NY.GDP.PCAP.CD?format=json).
