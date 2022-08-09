@@ -66,6 +66,10 @@ The main research question investigates whether a country's unemployment rate is
 - The coefficient of correlation, r^2, is 0.04 which is very close to 0. This indicates the data is not well correlated.
 - The combination of low pvalue and small r^2 means the data is negatively correlated but the linear equation is not a great predictor of suicide rate.
 - The data analysis supports our hypothesis that countries with higher unemployment rate have higher suicide rates (positive slope and low pvalue). However the linear model is not very useful for computations. The linear relation is accurate but not precise.
+
+![suicide_hist](Main_Findings\Images\suicide_hist.png)![unemployment_hist](Main_Findings\Images\unemployment_hist.png)![suicide_vs_unemployment_scatter](Main_Findings\Images\suicide_vs_unemployment_scatter.png)
+
+---
 ## Additional Analysis and  Findings
 ### Is there a correlation between a country's per capita GDP and suicide rate?
 ### Do the same correlations, such as GDP vs suicide rate, exist on US state level?
