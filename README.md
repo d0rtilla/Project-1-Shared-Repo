@@ -87,11 +87,10 @@ Our main research question investigated the correlation between a country's Unem
 
 The jupyter notebook: [suicide_vs_ihdi_country.ipynb](Additional_Findings/suicide_vs_ihdi_country.ipynb) used these datasets and performs a linear regression to test the null hypothesis: 'country suicide rate has a zero slope regression coefficient when plotted against IHDI / HDI'. Findings based on the results:
  - The P-Value for the linear regression of [HDI vs Suicide Rate](Additional_Findings/Images/HDI_vs_Suicide_Rate.jpg) is 2.69e-10, which is far lower than alpha = 0.05, meaning the null hypothesis for [HDI vs Suicide Rate](Additional_Findings/Images/HDI_vs_Suicide_Rate.jpg) can be confidently rejected.
- - The P-Value for the linear regression of [IHDI vs Suicide Rate](Additional_Findings/Images/IHDI_vs_Suicide_Rate.jpg) is 2.22e-08, which is also far lower than alpha = 0.05, meaning the null hypothesis for [IHDI vs Suicide Rate](Additional_Findings/Images/IHDI_vs_Suicide_Rate.jpg) can also confidently be rejected.
+ - The P-Value for the linear regression of [IHDI vs Suicide Rate](/Additional_Findings/Images/IHDI_vs_Suicide_Rate.png) is 2.22e-08, which is also far lower than alpha = 0.05, meaning the null hypothesis for [IHDI vs Suicide Rate](/Additional_Findings/Images/IHDI_vs_Suicide_Rate.png) can also confidently be rejected.
  - The slope for both regressions is negative, which shows that as HDI / IHDI ratings increase, suicide rates *usually* go down.
  - The coefficient of r^2 for [HDI vs Suicide Rate](Additional_Findings/Images/HDI_vs_Suicide_Rate.jpg) is 0.03, because this number is so close to 0, it can be noted that the data is not well correlated.
- - The coefficient of r^2 for [IHDI vs Suicide Rate](Additional_Findings/Images/IHDI_vs_Suicide_Rate.jpg) is 0.02, because this number is also so close to 0, it can be noted that this data is not well correlated either.
+ - The coefficient of r^2 for [IHDI vs Suicide Rate](/Additional_Findings/Images/IHDI_vs_Suicide_Rate.png) is 0.02, because this number is also so close to 0, it can be noted that this data is not well correlated either.
  - The combination of low p-value and low r^2 indicate that, similarly to the data in our main hypothesis the data is negatively correlated, but the linear equation is not a good predictor of suicide rate.
  
- ![HDI vs Suicide Rate](Additional_Findings/Images/HDI_vs_Suicide_Rate.jpg)
- ![IHDI vs Suicide Rate](Additional_Findings/Images/IHDI_vs_Suicide_Rate.jpg)
+ ![HDI vs Suicide Rate](Additional_Findings/Images/HDI_vs_Suicide_Rate.jpg)![IHDI vs Suicide Rate](/Additional_Findings/Images/IHDI_vs_Suicide_Rate.png)
