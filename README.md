@@ -67,7 +67,7 @@ The main research question investigates whether a country's unemployment rate is
 - The combination of low pvalue and small r^2 means the data is negatively correlated but the linear equation is not a great predictor of suicide rate.
 - The data analysis supports our hypothesis that countries with higher unemployment rate have higher suicide rates (positive slope and low pvalue). However the linear model is not very useful for computations. The linear relation is accurate but not precise.
 
-![suicide_hist](Main_Findings\Images\suicide_hist.png)![unemployment_hist](Main_Findings\Images\unemployment_hist.png)![suicide_vs_unemployment_scatter](Main_Findings\Images\suicide_vs_unemployment_scatter.png)
+![suicide_hist](Main_Findings/Images/suicide_hist.png)![unemployment_hist](Main_Findings/Images/unemployment_hist.png)![suicide_vs_unemployment_scatter](Main_Findings/Images/suicide_vs_unemployment_scatter.png)
 
 ---
 ## Additional Analysis and  Findings
