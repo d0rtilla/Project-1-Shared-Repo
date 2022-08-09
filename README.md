@@ -93,4 +93,4 @@ The jupyter notebook: [suicide_vs_ihdi_country.ipynb](Additional_Findings/suicid
  - The coefficient of r^2 for [IHDI vs Suicide Rate](/Additional_Findings/Images/IHDI_vs_Suicide_Rate.png) is 0.02, because this number is also so close to 0, it can be noted that this data is not well correlated either.
  - The combination of low p-value and low r^2 indicate that, similarly to the data in our main hypothesis the data is negatively correlated, but the linear equation is not a good predictor of suicide rate.
  
- ![HDI vs Suicide Rate](Additional_Findings/Images/HDI_vs_Suicide_Rate.jpg)![IHDI vs Suicide Rate](/Additional_Findings/Images/IHDI_vs_Suicide_Rate.png)
+ ![HDI vs Suicide Rate](/Additional_Findings/Images/HDI_vs_Suicide_Rate.jpg)![IHDI vs Suicide Rate](/Additional_Findings/Images/IHDI_vs_Suicide_Rate.png)
