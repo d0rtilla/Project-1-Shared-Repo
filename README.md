@@ -15,7 +15,7 @@
         - [state_unemployment_USBLS.csv](Additional_Findings\Resources\state_unemployment_USBLS.csv)
         - [state_gdp_USDOC.csv](Additional_Findings\Resources\state_gdp_USDOC.csv)
         - [state_suicide_CDC.csv](Additional_Findings\Resources\state_suicide_CDC.csv)
-        - [country_ihdi_WHO.csv](Additional_Findings\Resources\country_ihdi_WHO.csv)
+        - [country_ihdi_UNDP.csv](Additional_Findings\Resources\country_ihdi_UNDP.csv)
 ## Project Proposal
 Group Number: 5
 
